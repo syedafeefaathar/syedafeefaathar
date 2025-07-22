@@ -1,8 +1,17 @@
-## Hi there 👋
+
+## 🧕💻 About Me
+
+- 💻 I’m passionate about web development  
+- ✅ I have completed HTML & CSS  
+- 🚀 Currently learning JavaScript  
+- 🌱 I enjoy building simple and creative web projects  
+
 
 <!--
 **syedafeefaathar/syedafeefaathar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+💻 Passionate about Web Development  
+✅ Completed: HTML & CSS  
+🚀 Learning: JavaScript
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
