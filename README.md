@@ -1,10 +1,8 @@
 
 ## 🧕💻 About Me
 
-- 💻 I’m passionate about web development  
-- ✅ I have completed HTML & CSS  
-- 🚀 Currently learning JavaScript  
-- 🌱 I enjoy building simple and creative web projects  
+- 🌱 Learning HTML & CSS  
+  
 
 
 <!--
